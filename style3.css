@@ -1,5 +1,5 @@
 body{
-	background-image: url(C:\Users\user11\Desktop\images.jpg);
+	background-image: url("C:\\Users\\user11\\Desktop\\images.jpg");
     background-repeat: no-repeat; background-size: cover;	
 }
 img{display: flex;
